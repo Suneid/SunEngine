@@ -1,0 +1,32 @@
+﻿  Bob.cpp
+  Draw.cpp
+  Engine.cpp
+C:\Users\Admin\source\repos\FirstGameEngine\FirstGameEngine\Engine.cpp(5,44): warning C4244: =: преобразование "unsigned int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Admin\source\repos\FirstGameEngine\FirstGameEngine\Engine.cpp(6,44): warning C4244: =: преобразование "unsigned int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Admin\source\repos\FirstGameEngine\FirstGameEngine\Engine.cpp(8,52): warning C4244: аргумент: преобразование "T" в "unsigned int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Admin\source\repos\FirstGameEngine\FirstGameEngine\Engine.cpp(8,38): warning C4244: аргумент: преобразование "T" в "unsigned int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+  FirstGameEngine.cpp
+  Input.cpp
+  Update.cpp
+  Создание кода
+  86 of 86 functions (100.0%) were compiled.
+    84 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  FirstGameEngine.vcxproj -> C:\Users\Admin\source\repos\FirstGameEngine\Release\FirstGameEngine.exe
